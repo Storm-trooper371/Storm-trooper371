@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Storm-trooper371
+- 👀 I’m interested in cybersecurity and programing
+- 🌱 I’m currently learning python and fullstack but with a hault of classes 
